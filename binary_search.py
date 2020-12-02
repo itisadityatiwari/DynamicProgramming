@@ -20,7 +20,7 @@ while True:
     break
   except:
     print("Invalid Input")
-#print("while loop existed")
+#print("while loop exited")
 result=binary(list_arr,number)
 if result !=-1:
   print(f'The index for the number:"{number}" is at {result}')
